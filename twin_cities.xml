@@ -1,0 +1,142 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<channel> 
+  <title>Twin Cities</title>
+  <link>http://localhost:8888/db2rss/twin_cities.xml</link>
+  <atom:link href="http://localhost:8888/db2rss/twin_cities.xml" rel="self" type="application/rss+xml" />
+  <description>Place of interest</description>
+  <lastBuildDate>Wed, 23 Mar 2022 09:13:02 GMT</lastBuildDate>
+  <item>
+    <title>O2 arena</title>
+	<guid>https://www.theo2.co.uk/</guid>
+    <link>https://www.theo2.co.uk/</link>
+    <description>City Name : London,
+		Capacity(Thousands) : 20,
+		Days open(Per Year) : 200,
+		Total Visitors(Yearly) : 9000000,
+		Place Lat : 51.503,
+		Place Long : 0.0032
+	</description>
+	<category>music/sports</category><enclosure url="https://cdn.londonandpartners.com/asset/the-o2_the-o2-image-courtesy-of-the-o2_1bfa43478d56c0049ccf273bda81b64b.jpg" length="43469" type="image/jpeg" /><pubDate>Wed, 23 Mar 2022 09:13:00 GMT</pubDate></item><item>
+    <title>The British Museum</title>
+	<guid>https://www.britishmuseum.org/</guid>
+    <link>https://www.britishmuseum.org/</link>
+    <description>City Name : London,
+		Capacity(Thousands) : 2,
+		Days open(Per Year) : 363,
+		Total Visitors(Yearly) : 6000000,
+		Place Lat : 51.5194,
+		Place Long : 0.127
+	</description>
+	<category>museum</category><enclosure url="https://cdn.britannica.com/12/127112-050-F4DD3B7A/British-Museum-London.jpg" length="99714" type="image/jpeg" /><pubDate>Wed, 23 Mar 2022 09:13:01 GMT</pubDate></item><item>
+    <title>Emirates Stadium</title>
+	<guid>https://www.arsenal.com/the-club/emirates-stadium</guid>
+    <link>https://www.arsenal.com/the-club/emirates-stadium</link>
+    <description>City Name : London,
+		Capacity(Thousands) : 60,
+		Days open(Per Year) : 355,
+		Total Visitors(Yearly) : 250000,
+		Place Lat : 51.5549,
+		Place Long : 0.1084
+	</description>
+	<category>sports</category><enclosure url="https://c8.alamy.com/comp/J9N02Y/the-emirates-stadium-in-highbury-london-england-and-the-home-of-the-J9N02Y.jpg" length="0" type="image/jpeg" /><pubDate>Wed, 23 Mar 2022 09:13:02 GMT</pubDate></item><item>
+    <title>Buckingham Palace</title>
+	<guid>https://www.rct.uk/visit/buckingham-palace</guid>
+    <link>https://www.rct.uk/visit/buckingham-palace</link>
+    <description>City Name : London,
+		Capacity(Thousands) : 0,
+		Days open(Per Year) : 70,
+		Total Visitors(Yearly) : 578,
+		Place Lat : 51.5014,
+		Place Long : 0.1419
+	</description>
+	<category>Royal Palace</category><enclosure url="https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/britains-queen-elizabeth-ii-leaves-buckingham-palace-in-news-photo-1624550959.jpg" length="896706" type="image/jpeg" /><pubDate>Wed, 23 Mar 2022 09:13:02 GMT</pubDate></item><item>
+    <title>Central park</title>
+	<guid>https://www.centralparknyc.org/</guid>
+    <link>https://www.centralparknyc.org/</link>
+    <description>City Name : New York,
+		Capacity(Thousands) : 60,
+		Days open(Per Year) : 365,
+		Total Visitors(Yearly) : 42000000,
+		Place Lat : 40.7812,
+		Place Long : -73.9665
+	</description>
+	<category>park</category><enclosure url="https://a.cdn-hotels.com/gdcs/staging126/d1145/8842c813-c6de-496a-9caa-fbb97a6a936a.jpg" length="518763" type="image/jpeg" /><pubDate>Wed, 23 Mar 2022 09:13:02 GMT</pubDate></item><item>
+    <title>Statue of Liberty </title>
+	<guid>https://www.nps.gov/stli/index.htm</guid>
+    <link>https://www.nps.gov/stli/index.htm</link>
+    <description>City Name : New York,
+		Capacity(Thousands) : 0,
+		Days open(Per Year) : 365,
+		Total Visitors(Yearly) : 4240000,
+		Place Lat : 40.6892,
+		Place Long : -74.0445
+	</description>
+	<category>Sculpture</category><enclosure url="https://www.telegraph.co.uk/content/dam/travel/2021/09/28/TELEMMGLPICT000272822890_trans_NvBQzQNjv4BqgsaO8O78rhmZrDxTlQBjdLdu0TL-Cg_AMOUqySXmFgU.jpeg" length="0" type="image/jpeg" /><pubDate>Wed, 23 Mar 2022 09:13:02 GMT</pubDate></item><item>
+    <title>Madison Square Garden </title>
+	<guid>https://www.msg.com/madison-square-garden</guid>
+    <link>https://www.msg.com/madison-square-garden</link>
+    <description>City Name : New York,
+		Capacity(Thousands) : 20789,
+		Days open(Per Year) : 320,
+		Total Visitors(Yearly) : 6600000,
+		Place Lat : 40.7505,
+		Place Long : -73.9934
+	</description>
+	<category>music/sports</category><enclosure url="https://nypost.com/wp-content/uploads/sites/2/2021/02/msg.jpg" length="2145827" type="image/jpeg" /><pubDate>Wed, 23 Mar 2022 09:13:02 GMT</pubDate></item><item>
+    <title>Wembley Stadium</title>
+	<guid>https://en.wikipedia.org/wiki/Wembley_Stadium</guid>
+    <link>https://en.wikipedia.org/wiki/Wembley_Stadium</link>
+    <description>City Name : London,
+		Capacity(Thousands) : 90,
+		Days open(Per Year) : 320,
+		Total Visitors(Yearly) : 16400000,
+		Place Lat : 51.556,
+		Place Long : 0.2796
+	</description>
+	<category>sports</category><pubDate>Wed, 23 Mar 2022 09:13:02 GMT</pubDate></item><item>
+    <title>Tower of London</title>
+	<guid>https://www.hrp.org.uk/tower-of-london/#gs.r2kimw</guid>
+    <link>https://www.hrp.org.uk/tower-of-london/#gs.r2kimw</link>
+    <description>City Name : London,
+		Capacity(Thousands) : 1450,
+		Days open(Per Year) : 361,
+		Total Visitors(Yearly) : 28000000,
+		Place Lat : 51.5081,
+		Place Long : 0.0759
+	</description>
+	<category>Castle</category><pubDate>Wed, 23 Mar 2022 09:13:02 GMT</pubDate></item><item>
+    <title>Empire State Building</title>
+	<guid>https://www.esbnyc.com/</guid>
+    <link>https://www.esbnyc.com/</link>
+    <description>City Name : New York,
+		Capacity(Thousands) : 14,
+		Days open(Per Year) : 365,
+		Total Visitors(Yearly) : 4000000,
+		Place Lat : 40.7484,
+		Place Long : -73.9857
+	</description>
+	<category>Skyscraper</category><pubDate>Wed, 23 Mar 2022 09:13:02 GMT</pubDate></item><item>
+    <title>Solomon R. Guggenheim Museum</title>
+	<guid>https://www.guggenheim.org/</guid>
+    <link>https://www.guggenheim.org/</link>
+    <description>City Name : New York,
+		Capacity(Thousands) : 2,
+		Days open(Per Year) : 365,
+		Total Visitors(Yearly) : 953925,
+		Place Lat : 40.783,
+		Place Long : -73.959
+	</description>
+	<category>museum</category><pubDate>Wed, 23 Mar 2022 09:13:02 GMT</pubDate></item><item>
+    <title>Barclays Center</title>
+	<guid>https://www.barclayscenter.com/</guid>
+    <link>https://www.barclayscenter.com/</link>
+    <description>City Name : New York,
+		Capacity(Thousands) : 19,
+		Days open(Per Year) : 272,
+		Total Visitors(Yearly) : 5168000,
+		Place Lat : 40.6826,
+		Place Long : -73.9754
+	</description>
+	<category>multi purpose</category><pubDate>Wed, 23 Mar 2022 09:13:02 GMT</pubDate></item>
+</channel>
+</rss>
